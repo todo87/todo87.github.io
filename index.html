@@ -6,10 +6,12 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="Skill Matrix">
 		<meta name="author" content="Todoras Stefan">
-		<script type="text/javascript" src="script/jquery/jquery-2.1.3.min.js"></script>
-		<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
-		<script type="text/javascript" src="script/angular/angular.min.js"></script>
-		<script type="text/javascript" src="script/mainApp.js"></script>
+		<script src="script/jquery/jquery-2.1.3.min.js"></script>
+		<script src="bootstrap/js/bootstrap.min.js"></script>
+		<script src="script/angular/angular.min.js"></script>
+		<script src="script/mainApp.js"></script>
+		<script src="script/get.js"></script>
+		<script src="script/controller.js"></script>
 		<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css"></link>
 		<link rel="stylesheet" href="css/custom.css"></link>
 	</head>
@@ -28,34 +30,12 @@
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
-						<td class="col-sm-2"><h4><strong>First name</strong></h4></td>
-						<td class="col-sm-10"><h4>Stefan</h4></td>
+					<tr ng-repeat="key in personalDataKeys">
+						<td class="col-sm-2"><h4><strong>{{key}}</strong></h4></td>
+						<td class="col-sm-10"><h4>{{personalData[key]}}</h4></td>
 					</tr>
-					<tr>
-						<td class="col-sm-2"><h4><strong>Family name</strong></h4></td>
-						<td class="col-sm-10"><h4>Todoras</h4></td>
-					</tr>
-					<tr>
-						<td class="col-sm-2"><h4><strong>Year of birth</strong></h4></td>
-						<td class="col-sm-10"><h4>1987</h4></td>
-					</tr>
-					<tr>
-						<td class="col-sm-2"><h4><strong>Hobbies</strong></h4></td>
-						<td class="col-sm-10"><h4>Motor sports, inline skating</h4></td>
-					</tr>
-					<tr>
-						<td class="col-sm-2"><h4><strong>Actual position</strong></h4></td>
-						<td class="col-sm-10"><h4>Java programmer</h4></td>
-					</tr>
-					<tr>
-						<td class="col-sm-2"><h4><strong>Phone</strong></h4></td>
-						<td class="col-sm-10"><h4>+40730736867</h4></td>
-					</tr>
-					<tr>
-						<td class="col-sm-2"><h4><strong>E-mail</h4></td>
-						<td class="col-sm-10"><h4>mail_holder</h4></td>
-					</tr>
+
+
 					<tr>
 						<td class="col-sm-12 form_header" colspan="2">
 							<h3 class="form_header_text"><strong>Education</strong></h3>
