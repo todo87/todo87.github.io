@@ -1,17 +1,20 @@
-mainApp.controller("controller", function($scope,$http,get) {
+mainApp.controller("controller", function($scope,$http,$sce,get) {
 
   $scope.personalData = null;
   $scope.personalDataKeys = null;
+  $scope.education = null;
+  $scope.educationKeys = null;
 
   get.async('personalData.json').then(function(d) {
-    $scope.personalData = d;
+    $scope.personalData = angular.fromJson(d);
     $scope.personalDataKeys = Object.keys(d);
   });
 
-  // $http.get('script/personalData.json').success(function(resp) {
-  //   $scope.object = resp;
-  //   console.log("log response");
-  //   console.log(resp);
-  // });
+  get.async('education.json').then(function(d) {
+    $scope.education = d;
+    $scope.educationKeys = Object.keys(d);
+    $scope.education["Formal Qualifications"] = $sce.trustAsHtml(d["Formal Qualifications"]);
+
+  });
 
 });
