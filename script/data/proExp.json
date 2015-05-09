@@ -1,0 +1,124 @@
+{
+    "Professional experience": [
+        {
+            "Profile": "Java Programmer, ING Belgium",
+            "Career history": [
+                "Web Application Developer",
+                "2014.09 - 2015.04"
+            ],
+            "Assignment history": [
+                {
+                    "Main activities and responsibilities:": [
+                        "Develop bank’s web application by implementing new features",
+                        "Bug fixing",
+                        "Maintenance",
+                        "Regression bug fixing"
+                    ]
+                },
+                {
+                    "1.Project Homebank:": [
+                        "Main goal of the project: development of new features for homebank users and ensure regression compatibility for production.",
+                        "Main design concerns: handle requests from user through business logic. "
+                    ]
+                },
+                {
+                    "2.Project Telelink:": [
+                        "Main goal of the project: assure a smart way for enterprise clients and facilitating the way of new loans.",
+                        "Main design concerns: ensure products availability for each client apart."
+                    ]
+                },
+                {
+                    "3.Project Rebranding:": [
+                        "Main goal of the project: rebranding ING Insurance operations to NN.",
+                        "Main design concerns: change all branded ING Insurance data to NN."
+                    ]
+                },
+                {
+                    "Process Management: ": [
+                        "Agile",
+                        "Daily scrum meetings",
+                        "Displacements in Belgium in key moments of the project"
+                    ]
+                },
+                {
+                    "Technologies and tools:": "IBM RAD, Eclipse, Serena Dimensions, Was 6.5, Jira, HP Quality Center"
+                }
+            ]
+        },
+        {
+            "Profile": "Java Programmer , Infrasoft",
+            "Career history": [
+                "Web Application Developer, 2014-03 – 2014-08"
+            ],
+            "Assignment history": [
+                {
+                    "Main activities and responsibilities:": [
+                        "Develop web applications by implementing new features or bug fixing appeared on two projects:",
+                        "http://dms.documenta.ro is an online document management application and ERP",
+                        "http://www.inthinc.com/ is an online application for monitoring fleet used in USA by the largest companies in the industry"
+                    ]
+                },
+                {
+                    "1. Project Documenta:": [
+                        "Main goal of the project: development of a new online document management platform, designed for supplying needs of large companies. It has two parts, document management and ERP.",
+                        "Main design concerns: various needs from company to company and development of new special features for every company apart."
+                    ]
+                },
+                {
+                    "2. Project Inthinc:": [
+                        "Main goal of the project: development of new features according with new hardware devices mounted on vehicles.",
+                        "Main design concerns: handle data inserted in database and data from database to end user"
+                    ]
+                },
+                {
+                    "Process Management: ": [
+                        "Agile",
+                        "Daily scrum meetings"
+                    ]
+                }
+            ]
+        },
+        {
+            "Profile": "HVAC system engineer, AIRCO GRUP SRL",
+            "Career history": [
+                "Research and development, Sales",
+                "2013-01 - 2013-10"
+            ],
+            "Assignment history": [
+                {
+                    "Main activities and responsibilities:": [
+                        "Finding HVAC systems failures",
+                        "Field teams coordination",
+                        "Pre-screening of material requirements",
+                        "Mitsubishi, Climaveneta, Daikin sales representative"
+                    ]
+                }
+            ]
+        },
+        {
+            "Profile": "",
+            "Career history": [
+                "Support / Helpdesk",
+                "2009-07 - 2012-06"
+            ],
+            "Assignment history": [
+                "The job involved troubleshooting computer's hardware and/or software at company's or the client site"
+            ]
+        },
+        {
+            "Profile": "Project Manager, BRENNAN RESEARCH & CONSULTANTS ",
+            "Career history": [
+                "Media",
+                "2008-06 - 2009-05",
+                "Brenan Research and Consultants is a private company with main activity in market research. The company has 3 departments: call center, qualitative studies and quantitative studies."
+            ],
+            "Assignment history": [
+                "Assembly the team for projects (qualitative projects and/or quantitative projects)",
+                "Budget negotiation for every project",
+                "Team coordination (30 to 40 employees for qualitative projects in Bucharest and 250-300 employees for quantitative project at national scale)",
+                "Solving in real time any problems related to ongoing projects",
+                "Deliver project results until deadline"
+            ]
+        }
+    ]
+}

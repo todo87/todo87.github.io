@@ -1,0 +1,436 @@
+{
+	"os":
+	[
+		{
+			"Category": "",
+			"Item": "Windows Desktop",
+			"No. of years": "20",
+			"Last year used": "yes",
+			"Skill level": "4",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "O/S Virtualization (generic)",
+			"No. of years": "",
+			"Last year used": "",
+			"Skill level": "",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "VMWare Desktop",
+			"No. of years": "1",
+			"Last year used": "yes",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		}
+		
+	],
+	"progLang":
+	[
+		{
+			"Category": "",
+			"Item": "Python",
+			"No. of years": "",
+			"Last year used": "yes",
+			"Skill level": "1",
+			"Remarks (versions used, certifications, other remarks)": "I had to convert about 20 python DAO in JDBC DAO"
+		},		
+		{
+			"Category": "",
+			"Item": "C++",
+			"No. of years": "2",
+			"Last year used": "no",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},		
+		{
+			"Category": "",
+			"Item": "Java (J2SE)",
+			"No. of years": "0.9",
+			"Last year used": "yes",
+			"Skill level": "3",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},		
+		{
+			"Category": "",
+			"Item": "J2EE (generic)",
+			"No. of years": "0.9",
+			"Last year used": "yes",
+			"Skill level": "3",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},		
+		{
+			"Category": "",
+			"Item": "J2EE / Spring",
+			"No. of years": "0.5",
+			"Last year used": "yes",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},		
+		{
+			"Category": "",
+			"Item": "J2EE / JPA",
+			"No. of years": "0.5",
+			"Last year used": "yes",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},		
+		{
+			"Category": "",
+			"Item": "J2EE / Hibernate",
+			"No. of years": "0.5",
+			"Last year used": "yes",
+			"Skill level": "1",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},		
+		{
+			"Category": "",
+			"Item": "J2EE / JSF",
+			"No. of years": "0.5",
+			"Last year used": "yes",
+			"Skill level": "1",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},		
+		{
+			"Category": "",
+			"Item": "J2EE / JSP",
+			"No. of years": "0.9",
+			"Last year used": "yes",
+			"Skill level": "3",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},		
+		{
+			"Category": "",
+			"Item": "J2EE / HTTP Servlets",
+			"No. of years": "0.9",
+			"Last year used": "yes",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},{
+			"Category": "",
+			"Item": "J2EE / XML",
+			"No. of years": "0.6",
+			"Last year used": "yes",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "J2EE / Web Services",
+			"No. of years": "0.9",
+			"Last year used": "yes",
+			"Skill level": "1",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "Java / Eclipse RCP (Rich Client Platform)",
+			"No. of years": "0.5",
+			"Last year used": "yes",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "Java / Swing",
+			"No. of years": "0.5",
+			"Last year used": "yes",
+			"Skill level": "3",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "Apache Tomcat",
+			"No. of years": "0.9",
+			"Last year used": "yes",
+			"Skill level": "3",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "Websphere Application Server",
+			"No. of years": "0.4",
+			"Last year used": "yes",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "JUnit",
+			"No. of years": "0.5",
+			"Last year used": "yes",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "SQL",
+			"No. of years": "1",
+			"Last year used": "yes",
+			"Skill level": "3",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "PL/SQL",
+			"No. of years": "0.5",
+			"Last year used": "yes",
+			"Skill level": "3",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "Mongo DB",
+			"No. of years": "0.3",
+			"Last year used": "yes",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "HTML; CSS",
+			"No. of years": "0.9",
+			"Last year used": "yes",
+			"Skill level": "3",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "JavaScript (JS)",
+			"No. of years": "0.9",
+			"Last year used": "yes",
+			"Skill level": "3",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "Jquery",
+			"No. of years": "0.9",
+			"Last year used": "yes",
+			"Skill level": "3",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "AJAX",
+			"No. of years": "0.5",
+			"Last year used": "yes",
+			"Skill level": "3",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "Jasper Reports",
+			"No. of years": "0.5",
+			"Last year used": "yes",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "Ireports",
+			"No. of years": "0.5",
+			"Last year used": "yes",
+			"Skill level": "1",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "JSTL",
+			"No. of years": "0.9",
+			"Last year used": "yes",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "Jmockit",
+			"No. of years": "0.5",
+			"Last year used": "yes",
+			"Skill level": "1",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "EasyMock",
+			"No. of years": "0.5",
+			"Last year used": "yes",
+			"Skill level": "1",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "Maven",
+			"No. of years": "0.9",
+			"Last year used": "yes",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		},
+		{
+			"Category": "",
+			"Item": "BTT Framework",
+			"No. of years": "0.4",
+			"Last year used": "yes",
+			"Skill level": "2",
+			"Remarks (versions used, certifications, other remarks)": ""
+		}
+	],
+	"db":
+	[
+		{
+			"Category" : "",
+			"Item" : "Generic RDBMS Knowledge",
+			"No. of years" : "3",
+			"Last year used" : "yes",
+			"Skill level" : "3",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		},	
+		{
+			"Category" : "",
+			"Item" : "Database Application Development (generic)",
+			"No. of years" : "2.5",
+			"Last year used" : "yes",
+			"Skill level" : "3",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		},
+		{
+			"Category" : "",
+			"Item" : "Oracle (development)",
+			"No. of years" : "1",
+			"Last year used" : "yes",
+			"Skill level" : "2",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		},
+		{
+			"Category" : "",
+			"Item" : "MySQL (development)",
+			"No. of years" : "2",
+			"Last year used" : "yes",
+			"Skill level" : "2",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		},
+		{
+			"Category" : "",
+			"Item" : "PostgreSQL (development)",
+			"No. of years" : "1",
+			"Last year used" : "no",
+			"Skill level" : "2",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		},
+		{
+			"Category" : "",
+			"Item" : "Cassandra",
+			"No. of years" : "0.5",
+			"Last year used" : "yes",
+			"Skill level" : "2",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		},
+		{
+			"Category" : "",
+			"Item" : "Mongo DB",
+			"No. of years" : "0.5",
+			"Last year used" : "yes",
+			"Skill level" : "2",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		}
+	],
+	"tools":
+	[
+		{
+			"Category" : "",
+			"Item" : "Networking (generic)",
+			"No. of years" : "7",
+			"Last year used" : "yes",
+			"Skill level" : "3",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		},
+		{
+			"Category" : "",
+			"Item" : "Eclipse",
+			"No. of years" : "0.7",
+			"Last year used" : "yes",
+			"Skill level" : "3",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		},
+		{
+			"Category" : "",
+			"Item" : "IntelliJIDEA",
+			"No. of years" : "1.5",
+			"Last year used" : "yes",
+			"Skill level" : "3",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		},
+		{
+			"Category" : "",
+			"Item" : "GitHub",
+			"No. of years" : "1.5",
+			"Last year used" : "yes",
+			"Skill level" : "3",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		},
+		{
+			"Category" : "",
+			"Item" : "Design Patterns",
+			"No. of years" : "2.5",
+			"Last year used" : "yes",
+			"Skill level" : "3",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		},
+		{
+			"Category" : "",
+			"Item" : "MVC Frameworks",
+			"No. of years" : "2.5",
+			"Last year used" : "yes",
+			"Skill level" : "3",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		},
+		{
+			"Category" : "",
+			"Item" : "Project management",
+			"No. of years" : "1",
+			"Last year used" : "no",
+			"Skill level" : "3",
+			"Remarks (versions used, certifications, other remarks)" : "Not in IT field"
+		},
+		{
+			"Category" : "",
+			"Item" : "People management",
+			"No. of years" : "1",
+			"Last year used" : "no",
+			"Skill level" : "3",
+			"Remarks (versions used, certifications, other remarks)" : "Not in IT field"
+		}
+	],
+	"indExp":
+	[
+		{
+			"Category" : "",
+			"Item" : "Web",
+			"No. of years" : "1",
+			"Last year used" : "yes",
+			"Skill level" : "3",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		}
+	],
+	"lang":
+	[
+		{
+			"Category" : "",
+			"Item" : "Romanian",
+			"No. of years" : "26",
+			"Last year used" : "yes",
+			"Skill level" : "5",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		},
+		{
+			"Category" : "",
+			"Item" : "English",
+			"No. of years" : "12",
+			"Last year used" : "yes",
+			"Skill level" : "4",
+			"Remarks (versions used, certifications, other remarks)" : ""
+		}
+	]
+}

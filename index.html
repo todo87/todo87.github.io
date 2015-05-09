@@ -22,6 +22,7 @@
 				<h2>Todoras Stefan</h2>
 				<p>Skill Matrix</p>
 			</div>
+			<!-- Personal data and education -->
 			<table class="table table-bordered">
 				<thead>
 					<tr>
@@ -31,9 +32,8 @@
 					</tr>
 				</thead>
 				<tbody>
-
 					<!-- Personal Data -->
-					<tr ng-repeat="key in personalDataKeys">
+					<tr ng-repeat="key in getKeys(personalData)">
 						<td class="col-sm-2"><h4><strong>{{key}}</strong></h4></td>
 						<td class="col-sm-10" ng-if="key != 'E-mail'">
 							<h4>{{personalData[key]}}</h4>
@@ -49,11 +49,84 @@
 							<h3 class="form_header_text"><strong>Education</strong></h3>
 						</td>
 					</tr>
-					<tr ng-repeat="key in educationKeys">
+					<tr ng-repeat="key in getKeys(education)">
 						<td class="col-sm-2"><h4><strong>{{key}}</strong></h4></td>
-						<td class="col-sm-10"><h4><div ng-bind-html="education[key]">{{education[key]}}</div></h4></td>
+						<td class="col-sm-10" ng-if="!isArray(education[key])">
+							<h4>
+								<div ng-bind-html="education[key]">{{education[key]}}</div>
+							</h4>
+						</td>
+						<td class="col-sm-10" ng-if="isArray(education[key])">
+							<ul>
+								<li ng-repeat="arr in education[key]">
+									<h4>{{arr}}
+										<!-- <div ng-bind-html="education[key]">{{education[key]}}</div> -->
+									</h4>
+								</li>
+							</ul>
+						</td>
 					</tr>
-
+				</tbody>
+			</table>
+			<!-- Skill matrix -->
+			<h2><strong>Skills matrix</strong></h2>
+			<h5><strong>Skill level : 1 – Theoretical knowledge ;  2 - Junior ;   3 – Confirmed experience; 4 – Advanced experienced;   5 – Senior expert.</strong></h5>
+			<!-- Skill matrix matrix -->
+			<table class="table table-condensed table-bordered">
+				<thead>
+					<tr>
+						<th class="col-sm-2 skill_th_center" ng-repeat="head in skillMatrixHead">{{head}}</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td class="col-sm-12" colspan="6"><strong>Systems/OS</strong></td>
+					</tr>
+					<tr ng-repeat="obj in matrix.os">
+						<td ng-repeat="head in skillMatrixHead">
+								{{obj[head]}}
+						</td>
+					</tr>
+					<tr>
+						<td class="col-sm-12" colspan="6"><strong>Programming languages</strong></td>
+					</tr>
+					<tr ng-repeat="obj in matrix.progLang">
+						<td ng-repeat="head in skillMatrixHead">
+								{{obj[head]}}
+						</td>
+					</tr>
+					<tr>
+						<td class="col-sm-12" colspan="6"><strong>Database</strong></td>
+					</tr>
+					<tr ng-repeat="obj in matrix.db">
+						<td ng-repeat="head in skillMatrixHead">
+								{{obj[head]}}
+						</td>
+					</tr>
+					<tr>
+						<td class="col-sm-12" colspan="6"><strong>Tools/methods/other</strong></td>
+					</tr>
+					<tr ng-repeat="obj in matrix.tools">
+						<td ng-repeat="head in skillMatrixHead">
+								{{obj[head]}}
+						</td>
+					</tr>
+					<tr>
+						<td class="col-sm-12" colspan="6"><strong>Industry experience</strong></td>
+					</tr>
+					<tr ng-repeat="obj in matrix.indExp">
+						<td ng-repeat="head in skillMatrixHead">
+								{{obj[head]}}
+						</td>
+					</tr>
+					<tr>
+						<td class="col-sm-12" colspan="6"><strong>Languages</strong></td>
+					</tr>
+					<tr ng-repeat="obj in matrix.lang">
+						<td ng-repeat="head in skillMatrixHead">
+								{{obj[head]}}
+						</td>
+					</tr>
 				</tbody>
 			</table>
 		</div>
