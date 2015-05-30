@@ -1,11 +1,11 @@
 {
   "Professional experience": [{
-    "Profile":"Java Programmer, TotalSoft SA",
-    "Career history":[
+    "Profile": "Java Programmer, TotalSoft SA",
+    "Career history": [
       "Web Application Developer,",
       "2015.04 - present"
     ],
-    "Assignment history":[{
+    "Assignment history": [{
       "proj_name": "Aplicatie informatizare POS Mediu",
       "resp": [
         "Java Development",
@@ -14,18 +14,19 @@
         "IBM BPM development",
         "IBM BPM bug fixing"
       ]
-      }, {
-        "proj_name": "Technologies and tools:",
-        "resp": [
-          "Spring Framework",
-          "Spring boot",
-          "Hibernate",
-          "Intellij",
-          "Jira",
-          "IBM BPM",
-          "Angular JS"]
-      }]
-    },{
+    }, {
+      "proj_name": "Technologies and tools:",
+      "resp": [
+        "Spring Framework",
+        "Spring boot",
+        "Hibernate",
+        "Intellij",
+        "Jira",
+        "IBM BPM",
+        "Angular JS"
+      ]
+    }]
+  }, {
     "Profile": "Java Programmer, ING Belgium",
     "Career history": [
       "Web Application Developer,",
@@ -72,7 +73,8 @@
         "Serena Dimensions",
         "Was 6.5",
         "Jira",
-        "HP Quality Center"]
+        "HP Quality Center"
+      ]
     }]
   }, {
     "Profile": "Java Programmer , Infrasoft",
@@ -108,12 +110,12 @@
     }, {
       "proj_name": "Technologies and tools:",
       "resp": [
-         "TomCat",
-         "Intellij",
-         "GitHub",
-         "PL/SLQ",
-         "MySql",
-         "Oracle DB"
+        "TomCat",
+        "Intellij",
+        "GitHub",
+        "PL/SLQ",
+        "MySql",
+        "Oracle DB"
       ]
     }]
   }, {
