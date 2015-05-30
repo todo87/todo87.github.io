@@ -68,6 +68,47 @@
 					</tr>
 				</tbody>
 			</table>
+			<!-- Pro Exp -->
+			<div ng-repeat="job in proExp['Professional experience']">
+				<table class="table table-bordered">
+					<thead>
+						<tr>
+							<th class="col-sm-12 form_header" colspan="2">
+									<h3 class="form_header_text"><strong>Professional experience</strong></h3>
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="col-sm-2"><h4><strong>Profile</strong></h4></td>
+							<td class="col-sm-10"><h4>{{job["Profile"]}}</h4></td>
+						</tr>
+						<tr>
+							<td class="col-sm-2"><h4><strong>Career history</strong></h4></td>
+							<td class="col-sm-10">
+								<div ng-repeat="ch in job['Career history']">
+									{{ch}}
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td class="col-sm-2"><h4><strong>Assignment history</strong></h4></td>
+							<td class="col-sm-10">
+								<ul class="list-unstyled">
+									<li ng-repeat="ah in job['Assignment history']">
+											{{ah['proj_name']}}
+											<ul>
+												<li ng-repeat="resp in ah['resp']">
+													{{resp}}
+												</li>
+											</ul><br/>
+									</li>
+								</ul>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
 			<!-- Skill matrix -->
 			<h2><strong>Skills matrix</strong></h2>
 			<h5><strong>Skill level : 1 – Theoretical knowledge ;  2 - Junior ;   3 – Confirmed experience; 4 – Advanced experienced;   5 – Senior expert.</strong></h5>

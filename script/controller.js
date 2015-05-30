@@ -6,7 +6,7 @@ mainApp.controller("controller", function($scope,$http,$sce,get) {
   $scope.skillMatrixHead = ["Category", "Item", "No. of years", "Last year used", "Skill level", "Remarks (versions used, certifications, other remarks)"];
   $scope.matrix = {};
   $scope.os = [{}];
-  
+
   get.async('personalData.json').then(function(d) {
     $scope.personalData = angular.fromJson(d);
   });
@@ -14,11 +14,12 @@ mainApp.controller("controller", function($scope,$http,$sce,get) {
   get.async('education.json').then(function(d) {
     $scope.education = angular.fromJson(d);
   });
-  
+
   get.async('proExp.json').then(function(d) {
-    $scope.proExp = angular.fromJson(d);
+    var temp = angular.fromJson(d);
+    $scope.proExp = angular.copy(temp);
   });
-  
+
   get.async('matrix.json').then(function(d) {
     $scope.matrix = angular.fromJson(d);
   });
@@ -26,7 +27,7 @@ mainApp.controller("controller", function($scope,$http,$sce,get) {
   $scope.isArray = function(obj){
     return angular.isArray(obj);
   }
-  
+
   $scope.isObject = function(obj){
     return angular.isObject(obj);
   }
@@ -35,7 +36,7 @@ mainApp.controller("controller", function($scope,$http,$sce,get) {
 	var retVal = [];
 	if(obj != null || obj != undefined){
 		retVal = Object.keys(obj);
-	}	 
+	}
     return retVal;
   }
 
