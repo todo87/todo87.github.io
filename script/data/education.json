@@ -1,10 +1,8 @@
 {
-  "Formal Qualifications" : "Technical University of Civil Engineering Bucharest <br /><br /> Degree in Computer Science,Automatic Control and Informatics",
-  "Professional Qualifications" :
-            [
-              "Java programmer (InfoAcademy courses)",
-             "PHP programmer (Infoacademy courses)"
-           ],
-  "Language skills" : "English : Write – Advanced, Speak – Advanced, Read -Advanced"
-
+  "Formal Qualifications": "Technical University of Civil Engineering Bucharest <br /><br /> Degree in Computer Science,Automatic Control and Informatics",
+  "Professional Qualifications": [
+    "Java programmer (InfoAcademy courses)",
+    "PHP programmer (Infoacademy courses)"
+  ],
+  "Language skills": "English : Write – Advanced, Speak – Advanced, Read -Advanced"
 }
