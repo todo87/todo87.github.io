@@ -53,7 +53,7 @@
     {
       "Category": "",
       "Item": "J2EE (generic)",
-      "No. of years": "2",
+      "No. of years": "3",
       "Last year used": "yes",
       "Skill level": "3",
       "Remarks (versions used, certifications, other remarks)": ""
@@ -126,7 +126,7 @@
       "Category": "",
       "Item": "Java / Eclipse RCP (Rich Client Platform)",
       "No. of years": "0.5",
-      "Last year used": "yes",
+      "Last year used": "no",
       "Skill level": "2",
       "Remarks (versions used, certifications, other remarks)": ""
     },
@@ -150,7 +150,7 @@
       "Category": "",
       "Item": "Websphere Application Server",
       "No. of years": "0.6",
-      "Last year used": "yes",
+      "Last year used": "no",
       "Skill level": "2",
       "Remarks (versions used, certifications, other remarks)": ""
     },
