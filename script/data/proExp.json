@@ -1,10 +1,46 @@
 {
   "Professional experience": [
     {
+      "Profile": "Java Programmer, Intrasoft",
+      "Career history": [
+        "Web Application Developer,",
+        "2016.06 - present"
+      ],
+      "Assignment history": [
+        {
+          "proj_name": "NSEA",
+          "resp": [
+            "Development",
+            "App design",
+            "DB design"
+          ]
+        },
+        {
+          "proj_name": "EMCS - Excise Movement and Control System , Slovenia",
+          "resp": [
+            "Development",
+            "Bugfixing",
+            "Maintenance"
+          ]
+        },
+        {
+          "proj_name": "Technologies and tools:",
+          "resp": [
+            "Eclipse",
+            "SVN",
+            "Java EE",
+            "JPA",
+            "Oracle g11"
+            "Jira"
+          ]
+        }
+      ]
+    },
+    {
       "Profile": "Java Programmer, Softwin",
       "Career history": [
         "Web Application Developer,",
-        "2015.06 - present"
+        "2015.06 - 2016.06"
       ],
       "Assignment history": [
         {
