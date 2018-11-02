@@ -1,10 +1,41 @@
 {
   "Professional experience": [
     {
+      "Profile": "Java Programmer, EOS IT",
+      "Career history": [
+        "Web Application Developer,",
+        "2017.08 - present"
+      ],
+      "Assignment history": [
+        {
+          "proj_name": "Multiple REST applications",
+          "resp": [
+            "Development",
+            "App design",
+            "DB design",
+            "Bugfixing"
+          ]
+        },
+        {
+          "proj_name": "Technologies and tools:",
+          "resp": [
+            "Spring Framework",
+            "Spring boot",
+            "Hibernate",
+            "JPA",
+            "Angular 4,5,6",
+            "Oracle g12",
+            "Intellij",
+            "Jira"
+          ]
+        }
+      ]
+    },
+    {
       "Profile": "Java Programmer, Intrasoft",
       "Career history": [
         "Web Application Developer,",
-        "2016.06 - present"
+        "2016.06 - 2017.08"
       ],
       "Assignment history": [
         {

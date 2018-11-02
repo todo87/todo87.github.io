@@ -23,6 +23,14 @@
       "Last year used": "yes",
       "Skill level": "2",
       "Remarks (versions used, certifications, other remarks)": ""
+    },
+    {
+      "Category": "",
+      "Item": "ESXI",
+      "No. of years": "0.5",
+      "Last year used": "yes",
+      "Skill level": "2",
+      "Remarks (versions used, certifications, other remarks)": ""
     }
   ],
   "progLang": [
@@ -45,48 +53,48 @@
     {
       "Category": "",
       "Item": "Java (J2SE)",
-      "No. of years": "4",
+      "No. of years": "6",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "5",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "J2EE (generic)",
-      "No. of years": "2.5",
+      "No. of years": "2",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "J2EE / Spring",
-      "No. of years": "2.5",
+      "No. of years": "5",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "5",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "J2EE / JPA",
-      "No. of years": "2.5",
+      "No. of years": "5",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "5",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "J2EE / Hibernate",
-      "No. of years": "2.5",
+      "No. of years": "5",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "5",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "J2EE / JSF",
-      "No. of years": "0.5",
-      "Last year used": "yes",
+      "No. of years": "1",
+      "Last year used": "no",
       "Skill level": "2",
       "Remarks (versions used, certifications, other remarks)": ""
     },
@@ -94,7 +102,7 @@
       "Category": "",
       "Item": "J2EE / JSP",
       "No. of years": "3",
-      "Last year used": "yes",
+      "Last year used": "no",
       "Skill level": "3",
       "Remarks (versions used, certifications, other remarks)": ""
     },
@@ -102,7 +110,7 @@
       "Category": "",
       "Item": "J2EE / HTTP Servlets",
       "No. of years": "2",
-      "Last year used": "yes",
+      "Last year used": "no",
       "Skill level": "3",
       "Remarks (versions used, certifications, other remarks)": ""
     },
@@ -110,16 +118,16 @@
       "Category": "",
       "Item": "J2EE / XML",
       "No. of years": "0.6",
-      "Last year used": "yes",
+      "Last year used": "no",
       "Skill level": "3",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "J2EE / Web Services",
-      "No. of years": "2",
+      "No. of years": "3",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
@@ -133,7 +141,7 @@
     {
       "Category": "",
       "Item": "Apache Tomcat",
-      "No. of years": "2.5",
+      "No. of years": "5",
       "Last year used": "yes",
       "Skill level": "3",
       "Remarks (versions used, certifications, other remarks)": ""
@@ -149,17 +157,17 @@
     {
       "Category": "",
       "Item": "JUnit",
-      "No. of years": "1",
+      "No. of years": "1.5",
       "Last year used": "yes",
-      "Skill level": "2",
+      "Skill level": "3",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "SQL",
-      "No. of years": "4",
+      "No. of years": "6",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
@@ -181,17 +189,17 @@
     {
       "Category": "",
       "Item": "HTML; CSS",
-      "No. of years": "4",
+      "No. of years": "5",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "JavaScript (JS)",
-      "No. of years": "3",
+      "No. of years": "5",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
@@ -208,6 +216,14 @@
       "No. of years": "1",
       "Last year used": "yes",
       "Skill level": "3",
+      "Remarks (versions used, certifications, other remarks)": ""
+    },
+    {
+      "Category": "",
+      "Item": "Angular 4, 5, 6",
+      "No. of years": "1",
+      "Last year used": "yes",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
@@ -238,7 +254,7 @@
       "Category": "",
       "Item": "JSTL",
       "No. of years": "3",
-      "Last year used": "yes",
+      "Last year used": "no",
       "Skill level": "3",
       "Remarks (versions used, certifications, other remarks)": ""
     },
@@ -261,9 +277,9 @@
     {
       "Category": "",
       "Item": "Maven",
-      "No. of years": "3",
+      "No. of years": "5",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
@@ -295,23 +311,23 @@
     {
       "Category": "",
       "Item": "Generic RDBMS Knowledge",
-      "No. of years": "3",
+      "No. of years": "5",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "Database Application Development (generic)",
-      "No. of years": "3",
+      "No. of years": "5",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "Oracle (development)",
-      "No. of years": "1",
+      "No. of years": "3",
       "Last year used": "yes",
       "Skill level": "3",
       "Remarks (versions used, certifications, other remarks)": ""
@@ -362,40 +378,40 @@
       "Category": "",
       "Item": "Eclipse",
       "No. of years": "0.5",
-      "Last year used": "yes",
+      "Last year used": "no",
       "Skill level": "2",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "IntelliJIDEA",
-      "No. of years": "3",
+      "No. of years": "5",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "Git",
-      "No. of years": "3",
+      "No. of years": "5",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "Design Patterns",
-      "No. of years": "2",
+      "No. of years": "5",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
       "Category": "",
       "Item": "MVC Frameworks",
-      "No. of years": "2.5",
+      "No. of years": "5",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     },
     {
@@ -419,9 +435,9 @@
     {
       "Category": "",
       "Item": "Web",
-      "No. of years": "2",
+      "No. of years": "5",
       "Last year used": "yes",
-      "Skill level": "3",
+      "Skill level": "4",
       "Remarks (versions used, certifications, other remarks)": ""
     }
   ],
