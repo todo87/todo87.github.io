@@ -1,10 +1,46 @@
 {
   "Professional experience": [
     {
+      "Profile": "Java Programmer, Advantage Software Factory",
+      "Career history": [
+        "Web Application Developer,",
+        "2019.11 - present"
+      ],
+      "Assignment history": [
+        {
+          "proj_name": "Collection web app",
+          "resp": [
+            "Development",
+            "Bugfixing"
+          ]
+        },
+        {
+          "proj_name": "Anytime CRM",
+          "resp": [
+            "Maintenance",
+            "Bugfixing"
+          ]
+        },
+        {
+          "proj_name": "Technologies and tools:",
+          "resp": [
+            "Ant",
+            "Maven",
+            "Spring Framework",
+            "Hibernate",
+            "JPA",
+            "Angular 7",
+            "Oracle g12",
+            "Intellij",
+            "Jira"
+          ]
+        }
+      ]
+    },{
       "Profile": "Java Programmer, EOS IT",
       "Career history": [
         "Web Application Developer,",
-        "2017.08 - present"
+        "2017.08 - 2019.08"
       ],
       "Assignment history": [
         {
@@ -19,11 +55,10 @@
         {
           "proj_name": "Technologies and tools:",
           "resp": [
-            "Spring Framework",
             "Spring boot",
             "Hibernate",
             "JPA",
-            "Angular 4,5,6",
+            "Angular 4,5,6,7",
             "Oracle g12",
             "Intellij",
             "Jira"
