@@ -1,10 +1,52 @@
 {
   "Professional experience": [
     {
+      "Profile": "Tech Lead, Luxoft",
+      "Career history": [
+        "Lead Developer,",
+        "2010.09 - present"
+      ],
+      "Assignment history": [
+        {
+          "proj_name": "Web app",
+          "resp": [
+            "Development,",
+            "Delegating work and assignments,",
+            "Collaborating with architects,",
+            "Collaborating with other teams for apps integrations,",
+            "Coding standards and best practices,",
+            "Supervising system modifications,",
+            "Guide team through technical issues,",
+            "Identify risks,",
+            "Requirement analyses,",
+            "Design patterns ,"
+          ]
+        },
+        {
+          "proj_name": "Technologies and tools:",
+          "resp": [
+            "Gradle",
+            "Maven",
+            "Spring boot",
+            "Hibernate",
+            "JPA",
+            "Angular 9",
+            "Microservices",
+            "Oracle g12",
+            "Liquibase",
+            "Intellij",
+            "Jira",
+            "Jenkins",
+            "Openshift",
+            "CI/CD"
+          ]
+        }
+      ]
+    },{
       "Profile": "Java Programmer, Advantage Software Factory",
       "Career history": [
         "Web Application Developer,",
-        "2019.11 - present"
+        "2010.11 - 2020.08"
       ],
       "Assignment history": [
         {
@@ -56,6 +98,7 @@
           "proj_name": "Technologies and tools:",
           "resp": [
             "Spring boot",
+            "Microservices",
             "Hibernate",
             "JPA",
             "Angular 4,5,6,7",
