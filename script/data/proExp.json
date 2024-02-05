@@ -1,6 +1,124 @@
 {
   "Professional experience": [
     {
+      "Profile": "Tech Lead / PM, Eurocontrol",
+      "Career history": [
+        "Java - Angular full stack dev",
+        "2023.05 - 2024.01"
+      ],
+      "Assignment history": [
+        {
+          "proj_name": "Aircraft communication project: ",
+          "resp": [
+            "Development,",
+            "Delegating work and assignments,",
+            "Collaborating with architects,",
+            "Collaborating with other teams for apps integrations,",
+            "Coding standards and best practices,",
+            "Supervising system modifications,",
+            "Guide team through technical issues,",
+            "Identify risks,",
+            "Requirement analyses,",
+            "Design patterns ,"
+          ]
+        },
+        {
+          "proj_name": "Technologies and tools:",
+          "resp": [
+            "Gradle",
+            "Maven",
+            "Spring boot",
+            "Hibernate",
+            "JPA",
+            "Angular",
+            "Microservices",
+            "Liquibase",
+            "Intellij",
+            "Jira",
+            "Jenkins",
+            "Openshift",
+            "CI/CD"
+          ]
+        }
+      ]
+    },{
+      "Profile": "Java - Angular full stack dev, Atruvia",
+      "Career history": [
+        "Java - Angular full stack dev",
+        "2022.11 - present"
+      ],
+      "Assignment history": [
+        {
+          "proj_name": "Financial sector project: ",
+          "resp": [
+            "Development,",
+            "Maintenance,",
+            "Collaborating with architects,",
+            "Collaborating with other teams for apps integrations,",
+            "Coding standards and best practices,",
+            "Requirement analyses,",
+            "Identify risks,"
+          ]
+        },
+        {
+          "proj_name": "Technologies and tools:",
+          "resp": [
+            "Gradle",
+            "Maven",
+            "Spring boot",
+            "Hibernate",
+            "JPA",
+            "Angular",
+            "Microservices",
+            "Liquibase",
+            "Intellij",
+            "Jira",
+            "Jenkins",
+            "Openshift",
+            "CI/CD"
+          ]
+        }
+      ]
+    },{
+      "Profile": "Java - Angular full stack dev, Freelancer",
+      "Career history": [
+        "Java - Angular full stack dev",
+        "2021.09 - 2022.08"
+      ],
+      "Assignment history": [
+        {
+          "proj_name": "Space and Defence project: ",
+          "resp": [
+            "Understanding how spacecrafts works and what happens with them outside of earth's atmosphere,",
+            "Development,",
+            "Collaborating with architects,",
+            "Collaborating with other teams for apps integrations,",
+            "Coding standards and best practices,",
+            "Identify risks,",
+            "Requirement analyses,",
+            "Design patterns"
+          ]
+        },
+        {
+          "proj_name": "Technologies and tools:",
+          "resp": [
+            "Gradle",
+            "Maven",
+            "Spring boot",
+            "Hibernate",
+            "JPA",
+            "Angular",
+            "Microservices",
+            "Liquibase",
+            "Intellij",
+            "Jira",
+            "Jenkins",
+            "Openshift",
+            "CI/CD"
+          ]
+        }
+      ]
+    },{
       "Profile": "Tech Lead, Luxoft",
       "Career history": [
         "Lead Developer,",
